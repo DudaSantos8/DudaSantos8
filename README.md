@@ -1,16 +1,16 @@
 ### Oii, Eu Sou a Duda Santos!!
 
 - 💻 Estou atualmente estudando programação e lógica;
-
+<!--
 <div>
   <a href="https://beacons.ai/DudaSantos8">
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=DudaSantos8&show_icons=trueicons=true&theme=radical"/>
-  <!--
+
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaSantos8&show_icons=trueicons=true&theme=radical"/>
-  -->
+  
   </a>
 </div>
-
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
