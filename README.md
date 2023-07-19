@@ -5,7 +5,9 @@
 <div>
   <a href="https://beacons.ai/DudaSantos8">
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=DudaSantos8&show_icons=trueicons=true&theme=radical"/>
+  <!--
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaSantos8&show_icons=trueicons=true&theme=radical"/>
+  -->
   </a>
 </div>
 
