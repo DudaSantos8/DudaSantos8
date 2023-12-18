@@ -1,6 +1,6 @@
 ### Oii, Eu Sou a Duda Santos!!
 
-- 💻 Estou atualmente estudando programação e lógica;
+- 💻 Recem formada em lógica de programação;
 <!--
 <div>
   <a href="https://beacons.ai/DudaSantos8">
