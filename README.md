@@ -1,7 +1,7 @@
 ### Oii, Eu Sou a Duda Santos!!
 
 - 💻 Formada no senac em Técnico de Informática;
-- 💻 Cursando graduação na Unip em ADS;
+- 💻 Cursando Análise e Desenvolvimento de Sistemas na Universidade Paulista;
 <!--
 <div>
   <a href="https://beacons.ai/DudaSantos8">
